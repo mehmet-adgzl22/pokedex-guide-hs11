@@ -1,6 +1,6 @@
 # Pokedex-Guide-hs11 Proje Özellikleri
 <ul>
-  <li>Bu projemizde Html, Css ve Javascprit kullanılarak sohbet robotu olan ChatCPT klonu yapıldı. Ayrıca projemize dark-mode özelliği de eklenildi. </li>
+  <li>Bu projemizde Html, Css ve Javascprit kullanılarak pokemonlar hakkında bilgi sağlayan bir web sitesi yapıldı. Pokemonları ismine göre arayan , her pokemonun türünü, deneyim puanını ve ağırlığı hakkında bilgi veren kullanışlı bir arama butonu yapıldı.  </li>
 </ul>
 
 # Projede Kullanılan Diller ve Araçlar
@@ -19,4 +19,5 @@
 https://pokedex-guide-hs11.netlify.app/
 
 # Pokedex-Guide-hs11 Proje Gifi
+![pokemon](https://github.com/user-attachments/assets/37ebd563-6015-4daa-be06-6bcabf1cea35)
 
